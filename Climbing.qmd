@@ -1,0 +1,65 @@
+---
+title: "Climbing"
+format: html
+---
+
+# Climbing
+
+Outside of statistics, I spend a lot of time rock climbing, skiing, backpacking, and exploring mountain environments.
+
+---
+
+## Selected Adventures
+
+::: {.climbing-grid}
+
+::: {.climb-card}
+![](assets/climbing/skyline_end.jpeg)
+
+**Gallatin Canyon, Montana**  
+Skyline Arete, Spring 2026
+:::
+
+::: {.climb-card}
+![](assets/climbing/sparerib.jpeg)
+
+**Gallatin Canyon, Montana**  
+Sparerib, Summer 2025
+:::
+
+::: {.climb-card}
+![](assets/climbing/fairview_dome.JPG)
+
+**Fairview Dome, Yosemite National Park**  
+The Regular Route, Summer 2024.
+:::
+
+::: {.climb-card}
+![](assets/climbing/tenaya.JPG)
+
+**Tenaya Peak, Yosemite National Park**  
+Northwest Buttress, Summer 2024.
+:::
+
+::: {.climb-card}
+![](assets/climbing/devils-tower.jpeg)
+
+**Devils Tower, Wyoming**  
+El Cracko Diablo, Summer 2024.
+:::
+
+::: {.climb-card}
+![](assets/climbing/seneca.jpeg)
+
+**Seneca Rocks, West Virginia**  
+Gunsight to South Peak Direct, Winter 2024.
+:::
+
+::: {.climb-card}
+![](assets/climbing/lion-king.jpeg)
+
+**Near Priest Lake, Idaho**  
+The Lion King 5.9, Summer 2023.
+:::
+
+:::

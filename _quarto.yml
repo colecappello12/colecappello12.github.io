@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Cole Cappello"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Publications.qmd
+        text: Publications
+      - href: Resume.qmd
+        text: Resume
+      - href: Teaching.qmd
+        text: Teaching
+      - href: Climbing.qmd
+        text: Climbing
+    right:
+      - icon: github
+        href: https://github.com/colecappello12
+      - icon: linkedin  
+        href: https://www.linkedin.com/in/cole-cappello-935035337/
+
+format:
+  html:
+    theme:
+      - pulse
+    css: styles.css
+    toc: true
+
+editor: visual
+
