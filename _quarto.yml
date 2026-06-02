@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Cole Cappello"
+  site-url: https://colecappello12.github.io
   navbar:
     left:
       - href: index.qmd

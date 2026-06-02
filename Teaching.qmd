@@ -5,7 +5,7 @@ format: html
 
 # Montana State University
 
----
+------------------------------------------------------------------------
 
 ## STAT 216: Introduction to Statistics
 
