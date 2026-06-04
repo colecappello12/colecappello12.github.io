@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  resources: google4340e34c61d8a547.html
 
 website:
   title: "Cole Cappello"
